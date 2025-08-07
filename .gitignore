@@ -1,0 +1,9 @@
+# Ignorar entorno virtual local
+001_streamlit_redaction_improver/
+
+# Ignorar archivos generados por Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos de entorno (si los usas)
+.env
